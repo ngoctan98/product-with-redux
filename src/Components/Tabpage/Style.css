@@ -1,0 +1,89 @@
+.tabProduct{
+    display: flex;
+
+}
+
+.tabProductImg{
+    flex: 1;
+    margin: 16px;
+}
+
+.tabProductInfor{
+    margin: 16px;
+    flex: 2;
+}
+
+.tabProductBrand{
+    
+}
+
+.tabProductHeader{
+    text-align: left;
+}
+
+.tabProductHeading{
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.tabProductPrice{
+    text-align: left;
+    font-weight: 600;
+    color: #ee4d2d;
+    padding: 32px 0 32px 32px;
+    border: solid #ccc 1px;
+    border-radius: 4px;
+    background-color: #fdfdfd;
+}
+
+.tabProductQuanlity{
+    display: flex;
+    margin-top: 32px;
+
+}
+
+.count{
+    display: flex;
+}
+
+.countDown{
+    border: solid #ccc 1px;
+    font-size: 30px;
+    line-height: 30px;
+    height: 30px;
+    padding: 0 8px;
+}
+
+.countUp{
+    border: solid #ccc 1px;
+    font-size: 20px;
+    line-height: 30px;
+    height: 30px;
+    padding: 0 8px;
+}
+
+
+.quanlity{
+    padding: 0 20px;
+    border: solid #ccc 1px;
+    margin: 0;
+    line-height: 30px;
+    height: 30px;
+}
+
+
+.quanlityHeading{
+    margin: 0 32px 0 0;
+    line-height: 30px;
+    height: 30px;
+}
+
+.addCart{
+    font-size: 18px;
+    padding: 8px;
+    background-color: #ee4d2d;
+    border: none;
+    border-radius: 4px;
+    color: #fff;
+    margin-top: 32px;
+}

@@ -1,0 +1,1 @@
+export const PRODUCTS=['Quần áo','Giày dép','Balo','Son','Mũ']
